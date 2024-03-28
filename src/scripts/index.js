@@ -28,3 +28,5 @@ window.addEventListener('load', async () => {
     unsubscribeButton: document.querySelector('#unsubscribePushNotification'),
   });
 });
+
+console.log('Friza');
